@@ -22,6 +22,13 @@ body{ margin: 0px; background: url("img/boxed-bg.jpg"); font-family: my_kalpurus
 .body_right{ width: 850px; float: right; min-height: 435px; padding: 5px;}
 
 .home{ background: #fff; min-height: 400px;}
+
+.check{ 
+    background: #fff;
+    min-height: 400px;
+    display: none;
+    }
+
 .home .slide{ width: 550px;}
 .chairman_corner{ margin: 5px 0 0 5px;}
 
